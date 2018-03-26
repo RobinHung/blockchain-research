@@ -7,7 +7,7 @@
 * [Implementation](#implementation)
 *  [Guides](#guides)
 
-## Beginner
+## Begin with the articles!
 
 * [Atomic Swaps: How the Lightning Network Extends to Altcoins](https://bitcoinmagazine.com/articles/atomic-swaps-how-the-lightning-network-extends-to-altcoins-1484157052/) Bitcoin Magazine
 * [BitcoinWiki - Atomic cross-chain trading](https://en.bitcoin.it/wiki/Atomic_cross-chain_trading)
@@ -15,6 +15,7 @@
 * [On-Chain Atomic Swaps](https://medium.com/decred/on-chain-atomic-swaps-bdb29fa2c92c) by Decred team
 * [The Evolution of Atomic Swaps](https://blog.altcoin.io/the-evolution-of-atomic-swaps-e33ad3af8818) by Altcoin.io Exchange team
 * [什么是原子交换(Atomic Swap)?](https://zhuanlan.zhihu.com/p/31689532)
+* [The Future of Decentralized Trading and Exchanges (Atomic Swaps)](https://steemit.com/bitcoin/@mooncryption/the-future-of-decentralized-trading-and-exchanges-atomic-swaps)
 
 ## Academic Research
 
@@ -24,8 +25,9 @@
 ## Implementation
 
 * [Decred](https://github.com/decred/atomicswap) - On-chain atomic swaps for Decred and other cryptocurrencies.
-* AltCoinExchange](https://github.com/AltCoinExchange/ethatomicswap) - Ethereum atomic swap.
+* [AltCoinExchange](https://github.com/AltCoinExchange/ethatomicswap) - Ethereum atomic swap.
 * [Lightning Labs](https://blog.lightning.engineering/announcement/2017/11/16/ln-swap.html) - Instant Cross-Chain Transactions on Lightning
+* [RepublicProtocol](https://github.com/republicprotocol/eth-atomic-swap) - Ethereum smart contract for cross-chain atomic swaps
 
 ## Guides
 
