@@ -1,5 +1,12 @@
 # Reading List for Atomic Swaps
 
+## Table of Contents
+
+* [Beginner Resources](#beginner)
+* [Academic Research](#academic-research)
+* [Implementation](#implementation)
+*  [Guides](#guides)
+
 ## Beginner
 
 * [Atomic Swaps: How the Lightning Network Extends to Altcoins](https://bitcoinmagazine.com/articles/atomic-swaps-how-the-lightning-network-extends-to-altcoins-1484157052/) Bitcoin Magazine
